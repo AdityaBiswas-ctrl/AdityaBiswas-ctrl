@@ -1,5 +1,5 @@
 # 💫 About Me:
-KIIT Undergrad 26 | Machine Learning | Deep Learning | Reinforcement Learning | Interested in Quant Finance 
+KIIT Undergrad'26 | Machine Learning | Deep Learning | Reinforcement Learning | Interested in Quant Finance 
 
 
 ## 🌐 Socials:
