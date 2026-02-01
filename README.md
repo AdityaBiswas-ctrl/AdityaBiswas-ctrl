@@ -2,7 +2,6 @@
 KIIT Undergrad'26 | Machine Learning • Deep Learning • Reinforcement Learning  
 Focused on **end-to-end ML systems**, **MLOps**.  
 I enjoy building production-ready ML pipelines, RL agents, and data-driven systems.
-
 ---
 
 ## 🌐 Socials
