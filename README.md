@@ -1,7 +1,7 @@
 # 💫 About Me
 KIIT Undergrad'26 | Machine Learning • Deep Learning • Reinforcement Learning  
 Focused on **end-to-end ML systems**, **MLOps**.  
-I enjoy building production-ready ML pipelines, RL agents, and data-driven systems.
+I enjoy building production-ready ML pipelines and data-driven systems.
 --
 
 ## 🌐 Socials
@@ -26,14 +26,13 @@ I enjoy building production-ready ML pipelines, RL agents, and data-driven syste
 ![Seaborn](https://img.shields.io/badge/Seaborn-%230C55A5.svg?style=for-the-badge)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 🤖 Deep Learning & Computer Vision
+### 🤖 Deep Learning & Computer Vision & NLP
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-black?style=for-the-badge)
-![LSTM](https://img.shields.io/badge/LSTM-blue?style=for-the-badge)
-![GRU](https://img.shields.io/badge/GRU-darkblue?style=for-the-badge)
+![NLP](https://img.shields.io/badge/YOLOv8-black?style=for-the-badge)
+
 
 ### 🧠 Reinforcement Learning
 ![Q-Learning](https://img.shields.io/badge/Q--Learning-purple?style=for-the-badge)
