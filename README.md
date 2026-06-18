@@ -34,12 +34,6 @@ I enjoy building production-ready ML pipelines and data-driven systems.
 ![NLP](https://img.shields.io/badge/YOLOv8-black?style=for-the-badge)
 
 
-### 🧠 Reinforcement Learning
-![Q-Learning](https://img.shields.io/badge/Q--Learning-purple?style=for-the-badge)
-![DQN](https://img.shields.io/badge/Deep%20Q--Network-darkred?style=for-the-badge)
-![Policy Gradient](https://img.shields.io/badge/Policy%20Gradient-orange?style=for-the-badge)
-![PPO](https://img.shields.io/badge/PPO-brown?style=for-the-badge)
-![Actor-Critic](https://img.shields.io/badge/Actor--Critic-4B0082?style=for-the-badge)
 
 ### ⚙️ MLOps & Deployment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
